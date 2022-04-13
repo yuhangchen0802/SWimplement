@@ -4,11 +4,7 @@ Implement of Smith-Waterman Algorithm in R
 
 # Installation
 
-pip install git+https://github.com/yuhangchen0802/SWimplement.git
 
-or
-
-git clone https://github.com/yuhangchen0802/SWimplement.git
 
 # Usage
 
